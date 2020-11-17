@@ -80,7 +80,7 @@ def main():
             print(bar)
         elif resp == '<Response [200]>':
             print(bar)
-            print("\n\033[1;33;40m [*] ඩේටා ආවා play කරපන්...[*]")
+            print("\n\033[1;33;40m [*] data awa 10kda 50k da shihan too..[*]")
             print(bar)
         else:
             print(bar)
